@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\SIH folder(3)Original Hackathon2024\\SIH_Drug_inventory - Copy - Copy\\SIH_Drug_Supplychain_Management-master\\frontend\\contracts\\CardTransactionRegistry.sol": {
+      "lastModificationDate": 1727430269824,
+      "contentHash": "9f2711dbd7cc60cbcc034cd7a92cd804",
+      "sourceName": "contracts/CardTransactionRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CardTransactionRegistry"
+      ]
+    }
+  }
+}
